@@ -6,6 +6,10 @@ A three-tier architecture is a software architecture pattern where the applicati
 
 ## Architecture Overview
 
+<div align = "center">
+<img src = "./assets/AWS_Three-Tier_Architecture.png" alt = "Architecture" title = "Architecture" width = "100%" height = "100%" />
+</div>
+
 The three tiers in our architecture include:
 1. Presentation Layer (Frontend)
 2. Business Logic Layer (Backend)
