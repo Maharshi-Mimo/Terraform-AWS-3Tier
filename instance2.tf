@@ -10,5 +10,5 @@ associate_public_ip_address = false
 tags = {
     Name = "terraform-web2"
 }
-    user_data = file("user_data_ins2.sh")
+    user_data = file("user_data_web.sh")
 }
