@@ -9,5 +9,5 @@ resource "aws_instance" "nginx" {
   tags = {
     Name = "terraform-nginx"
   }
-  user_data = file("user_data_ins1.sh")
+  user_data = file("user_data_nginx.sh")
 }
